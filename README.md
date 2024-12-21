@@ -1,6 +1,6 @@
 # Hi there, I'm Aman Mishra(@questinrest)! 👋
 
-I am a final-year MSc Data Science student at the Defence Institute of Advanced Technology, Pune. With a strong foundation in programming languages such as Python, data analysis, and the application of machine learning and deep learning techniques, I am passionate about using data to solve complex and interesting problems. My academic and research interests are centered aroud exploring innovative solutions to critical problems.
+I am a final-year MSc Data Science student at the Defence Institute of Advanced Technology, Pune. With a strong foundation in Python, data analysis, and the application of machine learning and deep learning techniques. I am passionate about using data to solve complex and interesting problems.
 
 Currently, I am working in the field of **Machine Unlearning**, where the objective is to remove the influence of specific data from an already trained model without needing to retrain it from scratch. This area of research holds significant promise, especially in contexts where privacy and data retention policies require models to "forget" certain data without compromising their overall performance.
 
