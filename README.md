@@ -33,7 +33,7 @@ Currently, I am working in the field of **Machine Unlearning**, where the object
 
 ### 📫 How to reach me
 
-- **Email**: Reach out to me at `am30435@gmail.com`.
+- **Email**: Reach out to me at `am30435@gmail.com` or `aman.mam23@diat.ac.in`.
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/aman---mishra/).
 
 ---
