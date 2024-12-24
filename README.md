@@ -1,15 +1,16 @@
-# Hi there, I'm Aman Mishra(@questinrest)! 👋
+# Hi there, I'm Aman Mishra (@questinrest)! 👋
 
-I am a final-year MSc Data Science student at the Defence Institute of Advanced Technology, Pune. With a strong foundation in Python, data analysis, and the application of machine learning and deep learning techniques. I am passionate about using data to solve complex and interesting problems.
+I am a final-year MSc Data Science student at the Defence Institute of Advanced Technology, Pune. With a strong foundation in Python, data analysis, and the application of machine learning and deep learning techniques, I am passionate about using data to solve complex and interesting problems.
 
 Currently, I am working in the field of **Machine Unlearning**, where the objective is to remove the influence of specific data from an already trained model without needing to retrain it from scratch. This area of research holds significant promise, especially in contexts where privacy and data retention policies require models to "forget" certain data without compromising their overall performance.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=questinrest&label=Profile%20views&color=0e75b6&style=flat" alt="questinrest" /> </p>
 
 ---
 
 ### 👀 What I’m interested in
 
-- **Machine Learning & Deep Learning**: I have built a strong foundation in ML and DL, and I’m constantly improving my skills in these areas by applying the knowledge into exciting problems.
+- **Machine Learning & Deep Learning**: I have built a strong foundation in ML and DL, and I’m constantly improving my skills in these areas by applying the knowledge to exciting problems.
 - **Zero-Shot Machine Unlearning**: Currently exploring the idea of unlearning specific data from a model without having access to the original dataset. This is crucial in scenarios where data retention policies, privacy concerns, or data availability constraints prevent access to the original training data.
 - **Generative Models**: Exploring models like GANs, VAEs, and diffusion models that are driving innovations in AI creativity and automation.
 
@@ -35,6 +36,47 @@ Currently, I am working in the field of **Machine Unlearning**, where the object
 
 - **Email**: Reach out to me at `am30435@gmail.com` or `aman.mam23@diat.ac.in`.
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/aman---mishra/).
+
+---
+
+### 🛠 Languages and Tools
+
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+  </a> 
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+  </a> 
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=questinrest&show_icons=true&locale=en&layout=compact" alt="questinrest" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=questinrest&show_icons=true&locale=en" alt="questinrest" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=questinrest&" alt="questinrest" /></p>
 
 ---
 
