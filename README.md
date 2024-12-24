@@ -4,7 +4,41 @@ I am a final-year MSc Data Science student at the Defence Institute of Advanced 
 
 Currently, I am working in the field of **Machine Unlearning**, where the objective is to remove the influence of specific data from an already trained model without needing to retrain it from scratch. This area of research holds significant promise, especially in contexts where privacy and data retention policies require models to "forget" certain data without compromising their overall performance.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=questinrest&label=Profile%20views&color=0e75b6&style=flat" alt="questinrest" /> </p>
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=questinrest&label=Profile%20views&color=0e75b6&style=flat" alt="questinrest" /> </p>
+
+---
+
+### 🛠 Languages and Tools
+
+<p align="left">
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+  </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+  </a> 
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40" height="40"/> 
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+  </a> 
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+  </a> 
+</p>
 
 ---
 
@@ -31,45 +65,6 @@ Currently, I am working in the field of **Machine Unlearning**, where the object
 - **Open-Source Projects**: Always eager to contribute to the open-source community in ML, AI, and data science.
 
 ---
-
-### 📫 How to reach me
-
-- **Email**: Reach out to me at `am30435@gmail.com` or `aman.mam23@diat.ac.in`.
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/aman---mishra/).
-
----
-
-### 🛠 Languages and Tools
-
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a> 
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=questinrest&show_icons=true&locale=en&layout=compact" alt="questinrest" /></p>
@@ -80,4 +75,14 @@ Currently, I am working in the field of **Machine Unlearning**, where the object
 
 ---
 
+
+
+### 📫 How to reach me
+
+- **Email**: Reach out to me at `am30435@gmail.com` or `aman.mam23@diat.ac.in`.
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/aman---mishra/).
 I am always open to collaborating on interesting projects and discussing new ideas in AI and data science. Feel free to reach out!
+
+---
+
+
