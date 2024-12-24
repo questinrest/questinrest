@@ -69,7 +69,7 @@ Currently, I am working in the field of **Machine Unlearning**, where the object
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=questinrest&show_icons=true&locale=en&layout=compact" alt="questinrest" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=questinrest&show_icons=true&locale=en" alt="questinrest" /></p>
+<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=questinrest&show_icons=true&locale=en" alt="questinrest" /></p>
 
 
 
