@@ -4,7 +4,7 @@ I am a final-year MSc Data Science student at the Defence Institute of Advanced 
 
 Currently, I am working in the field of **Machine Unlearning**, where the objective is to remove the influence of specific data from an already trained model without needing to retrain it from scratch. This area of research holds significant promise, especially in contexts where privacy and data retention policies require models to "forget" certain data without compromising their overall performance.
 
-<p align="centre"> <img src="https://komarev.com/ghpvc/?username=questinrest&base=100&label=Profile%20views&color=0e75b6&style=flat" alt="questinrest" /> </p>
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=questinrest&base=100&abbreviated=true&label=Profile%20views&color=green&style=plastic" alt="questinrest" /> </p>
 
 ---
 
