@@ -65,15 +65,6 @@ Currently, I am working in the field of **Machine Unlearning**, where the object
 - **Open-Source Projects**: Always eager to contribute to the open-source community in ML, AI, and data science.
 
 ---
-### 📊 GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=questinrest&show_icons=true&locale=en&layout=compact" alt="questinrest" /></p>
-
-<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=questinrest&show_icons=true&locale=en" alt="questinrest" /></p>
-
-
-
-
 
 
 ### 📫 How to reach me
