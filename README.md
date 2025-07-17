@@ -22,7 +22,7 @@
 ### 🌱 What I’m currently learning
 
 - **Machine Unlearning across Modalities**: Investigating techniques to selectively remove learned information from models trained on diverse data types, without full retraining, and investagating interpretability in Unlearning.
-- **Agent Evaluation**: Researching frameworks to assess the performance, reliability, and behavior of autonomous agentic systems in specific use cases.
+- **Agent's Evaluation**: Researching frameworks to assess the performance, reliability, and behavior of autonomous agentic systems in specific use cases.
 - **Observability of LLM-based Applications**: Studying how to monitor, interpret, and debug LLM-powered applications to ensure transparency and accountability.
 
 ---
