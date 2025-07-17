@@ -8,7 +8,7 @@
 
 💡 Passionate about solving complex problems using data-driven approaches.
 
-<p align="centre"> <img src="https://komarev.com/ghpvc/?username=questinrest&base=444&abbreviated=true&label=Profile%20views&color=red&style=plastic" alt="questinrest" /> </p>
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=questinrest&base=100&abbreviated=true&label=Profile%20views&color=red&style=plastic" alt="questinrest" /> </p>
 
 ---
 
