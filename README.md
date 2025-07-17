@@ -2,7 +2,7 @@
 
 🎓 MSc Data Science (2023–2025) @ DIAT Pune
 
-🤖 GenAI Intern (R&D) @ Confedo AI – Working on Evaluation & Observability of AI Agents in the Generative AI space.
+🤖 GenAI Intern (R&D) @ Confedo AI – Working on Evaluation & Observability of AI Agents.
 
 🧪 Previous Research Intern @ USG Lab, IIIT Delhi – Worked on Zero-Shot Machine Unlearning.
 
