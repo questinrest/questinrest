@@ -2,7 +2,9 @@
 
 🎓 MSc Data Science (2023–2025) @ DIAT Pune
 
-🤖 GenAI Intern (R&D) @ Confedo AI – Working on Evaluation & Observability of AI Agents.
+🤖 AI Engineer @ Observo – Building workflow automation & conversational AI solutions across industries.
+
+🔬 R&D @ Confedo AI — Focusing on evaluation & observability of AI agents.
 
 🧪 Previous Research Intern @ USG Lab, IIIT Delhi – Worked on Zero-Shot Machine Unlearning.
 
