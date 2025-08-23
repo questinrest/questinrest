@@ -4,7 +4,7 @@
 
 🤖 AI Engineer @ Observo – Building workflow automation & conversational AI solutions across industries.
 
-🔬 R&D @ Confedo AI — Focusing on evaluation & observability of AI agents.
+🔬 Research @ Confedo AI — Focusing on evaluation & observability of AI agents.
 
 🧪 Previous Research Intern @ USG Lab, IIIT Delhi – Worked on Zero-Shot Machine Unlearning.
 
