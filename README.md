@@ -13,6 +13,17 @@
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=questinrest&base=100&abbreviated=true&label=Profile%20views&color=red&style=plastic" alt="questinrest" /> </p>
 
 ---
+# The GenAI Bulletin – Clear and practical takes, no hype, just what matters.
+
+📅 A new post every day from my LinkedIn newsletter **The GenAI Bulletin**
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+👉 [Subscribe to The GenAI Bulletin on LinkedIn](https://www.linkedin.com/newsletters/7365791507200577536/)  
+
+
+
 
 ### 🛠 Languages and Tools
 
