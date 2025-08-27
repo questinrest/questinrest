@@ -14,4 +14,5 @@ jobs:
         - uses: gautamkrishnar/blog-post-workflow@master
           with:
             # Replace this URL with your rss feed URL/s
-            feed_list: "https://rss.app/feeds/2DjsosP2dGXlKZoS.xml"
+            feed_list: "https://linkedinrss.cns.me/7365791507200577536"
+
