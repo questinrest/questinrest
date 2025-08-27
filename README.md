@@ -13,9 +13,9 @@
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=questinrest&base=100&abbreviated=true&label=Profile%20views&color=red&style=plastic" alt="questinrest" /> </p>
 
 ---
-# The GenAI Bulletin – Clear and practical takes, no hype, just what matters.
+# InSight – Clear and practical takes, no hype, just what matters.
 
-📅 A new post every day from my LinkedIn newsletter **The GenAI Bulletin**
+📅 A new post every day from my LinkedIn newsletter **InSight**
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
