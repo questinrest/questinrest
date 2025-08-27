@@ -14,7 +14,7 @@
 
 ## ✍️ InSight – Clear & Practical Takes  
 📅 Daily posts via my LinkedIn newsletter **InSight**  
-👉 [Subscribe to The GenAI Bulletin](https://www.linkedin.com/newsletters/7365791507200577536/)  
+👉 [Subscribe to get InSight](https://www.linkedin.com/newsletters/7365791507200577536/)  
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
