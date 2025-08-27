@@ -11,4 +11,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://linkedinrss.cns.me/7365791507200577536"
+          feed_list: "https://rss.app/feeds/sgRG9agYsRu1k3yn.xml"
+
