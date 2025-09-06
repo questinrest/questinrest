@@ -1,10 +1,10 @@
 # Hi, I'm Aman (@questinrest) 👋  
 
 🎓 **MSc Data Science (2023–2025)** @ DIAT Pune  
-🤖 **AI Engineer** @ Observo – Building workflow automation & conversational AI solutions across industries  
+🤖 **AI Engineer** @ Observo – Building conversational AI & AI Enabled workflow automation solutions across industries  
 🔬 **Research** @ Confedo AI – Evaluation & observability of AI agents  
-🧪 **Ex-Research Intern** @ USG Lab, IIIT Delhi – Zero-Shot Machine Unlearning  
-💡 Passionate about solving complex problems with data-driven approaches  
+🧪 **Ex-Research Intern** @ USG Lab, IIIT Delhi – Worked on Zero-Shot Machine Unlearning  
+❤️ Maths + Code 
 
 <p align="center">  
   <img src="https://komarev.com/ghpvc/?username=questinrest&base=100&abbreviated=true&label=Profile%20views&color=red&style=plastic" alt="questinrest" />  
