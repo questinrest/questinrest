@@ -2,7 +2,7 @@
 
 🎓 **MSc Data Science (2023–2025)** @ DIAT Pune  
 🤖 **AI Engineer** @ Observo – Building conversational AI & AI Enabled workflow automation solutions across industries  
-🔬 **Research** @ Confedo AI – Evaluation & observability of AI agents  
+🔬 **Ex-GenAI Research Intern** @ Confedo AI – Evaluation & observability of AI agents  
 🧪 **Ex-Research Intern** @ USG Lab, IIIT Delhi – Worked on Zero-Shot Machine Unlearning  
 ❤️ Maths + Code 
 
