@@ -10,7 +10,7 @@
 > <strong>[USER]</strong>     Aman (@questinrest)
 > <strong>[ROLE]</strong>     AI Engineer @ Observo Tech Studio | MSc Data Science
 > <strong>[ORIGIN]</strong>   Ex-Confedo AI | Ex-USG Lab IIITD
-> <strong>[MODE]</strong>     "Maths + Code"
+> <strong>[MODE]</strong>     Maths + Code
 > <strong>[CURRENT]</strong>  Building Agentic Systems...
 > <span style="color: #FF003C">Warning: High latency in legacy systems detected.</span>
 </code>
@@ -21,10 +21,10 @@
     <td width="50%" valign="top" style="border: 1px solid #333; padding: 20px;">
       <h3 style="margin-top: 0; color: #EAEAEA; font-family: monospace;">/// DATA_STREAM: InSight</h3>
       <p style="font-family: monospace; color: #BBB; font-size: 13px; line-height: 1.5;">
-        Weekly reconnaissance on AI Engineering and System Architecture.
+        Clear and Practical takes, no hype, just what matters.
       </p>
       <br>
-      <a href=" https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7365791507200577536">
+      <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7365791507200577536">
         <img src="https://img.shields.io/badge/ESTABLISH_LINK-CCFF00?style=for-the-badge&labelColor=050505&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
       </a>
     </td>
@@ -52,7 +52,7 @@
       <h3 style="margin-top: 0; color: #EAEAEA; font-family: monospace;">/// ACTIVE_PROTOCOLS</h3>
       <ul style="list-style-type: none; padding: 0; font-family: monospace; color: #BBB; font-size: 13px;">
         <li style="margin-bottom: 8px;"><code>[x]</code> <span style="color: #CCFF00">Machine Unlearning</span></li>
-        <li style="margin-bottom: 8px;"><code>[x]</code> <span style="color: #CCFF00">Agent Evaluation</span></li>
+        <li style="margin-bottom: 8px;"><code>[x]</code> <span style="color: #CCFF00">Agent Systems and Evaluation</span></li>
         <li style="margin-bottom: 8px;"><code>[!]</code> <span>Observability Systems</span></li>
       </ul>
     </td>
