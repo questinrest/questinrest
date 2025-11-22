@@ -60,10 +60,10 @@
       <h3 style="margin-top: 0; color: #EAEAEA; font-family: monospace;">/// NET_INTERFACE</h3>
       <div style="background: #111; padding: 15px; border-left: 3px solid #CCFF00; font-family: monospace; font-size: 12px; color: #BBB;">
         <span>target: {</span><br>
-        <span style="padding-left: 15px;">email:   "<a href="mailto:am30435@gmail.com" style="color: #EAEAEA; text-decoration: none;">am30435@gmail.com</a>",</span><br>
-        <span style="padding-left: 15px;">node:    "<a href="https://www.linkedin.com/in/aman---mishra/" style="color: #EAEAEA; text-decoration: none;">linkedin/aman</a>",</span><br>
-        <span style="padding-left: 15px;">port:    "open_to_connect",</span><br>
-        <span style="padding-left: 15px;">packets: "<img src="https://komarev.com/ghpvc/?username=questinrest&label=&color=111111&style=flat-square&label_color=111111" alt="packets" style="vertical-align: text-bottom;" />"</span><br>
+        <span style="padding-left: 15px;">email:   <a href="mailto:am30435@gmail.com" style="color: #EAEAEA; text-decoration: none;">am30435@gmail.com</a>,</span><br>
+        <span style="padding-left: 15px;">node:    <a href="https://www.linkedin.com/in/aman---mishra/" style="color: #EAEAEA; text-decoration: none;">linkedin/aman</a>,</span><br>
+        <span style="padding-left: 15px;">port:    open_to_connect,</span><br>
+        <span style="padding-left: 15px;">packets: <img src="https://komarev.com/ghpvc/?username=questinrest&label=&color=111111&style=flat-square&label_color=111111" alt="packets" style="vertical-align: text-bottom;" /></span><br>
         <span>}</span>
       </div>
     </td>
