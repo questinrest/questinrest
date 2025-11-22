@@ -30,19 +30,20 @@
     </td>
     <td width="50%" valign="top" style="border: 1px solid #333; padding: 15px;">
       <h3 style="margin-top: 0; color: #EAEAEA;">/// CORE_COMPETENCIES</h3>
-      <img src="https://img.shields.io/badge/PYTHON-050505?style=flat-square&logo=python&logoColor=white&color=333">
-      <img src="https://img.shields.io/badge/PYTORCH-050505?style=flat-square&logo=pytorch&logoColor=white&color=333">
-      <img src="https://img.shields.io/badge/HUGGINGFACE-050505?style=flat-square&logo=huggingface&logoColor=white&color=333">
+      
+      <img src="https://img.shields.io/badge/Python-050505?style=flat-square&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/PyTorch-050505?style=flat-square&logo=pytorch&logoColor=white">
+      <img src="https://img.shields.io/badge/Hugging_Face-050505?style=flat-square&logo=huggingface&logoColor=white">
       <br><div style="margin-top: 5px;"></div>
       
-      <img src="https://img.shields.io/badge/AZURE-050505?style=flat-square&logo=microsoftazure&logoColor=white&color=333">
-      <img src="https://img.shields.io/badge/DOCKER-050505?style=flat-square&logo=docker&logoColor=white&color=333">
-      <img src="https://img.shields.io/badge/LINUX-050505?style=flat-square&logo=linux&logoColor=white&color=333">
+      <img src="https://img.shields.io/badge/Azure-050505?style=flat-square&logo=microsoftazure&logoColor=white">
+      <img src="https://img.shields.io/badge/Docker-050505?style=flat-square&logo=docker&logoColor=white">
+      <img src="https://img.shields.io/badge/Linux-050505?style=flat-square&logo=linux&logoColor=white">
       <br><div style="margin-top: 5px;"></div>
       
-      <img src="https://img.shields.io/badge/FASTAPI-050505?style=flat-square&logo=fastapi&logoColor=white&color=333">
-      <img src="https://img.shields.io/badge/MONGODB-050505?style=flat-square&logo=mongodb&logoColor=white&color=333">
-      <img src="https://img.shields.io/badge/GIT-050505?style=flat-square&logo=git&logoColor=white&color=333">
+      <img src="https://img.shields.io/badge/FastAPI-050505?style=flat-square&logo=fastapi&logoColor=white">
+      <img src="https://img.shields.io/badge/MongoDB-050505?style=flat-square&logo=mongodb&logoColor=white">
+      <img src="https://img.shields.io/badge/Git-050505?style=flat-square&logo=git&logoColor=white">
     </td>
   </tr>
   <tr>
