@@ -29,15 +29,20 @@
       </a>
     </td>
     <td width="50%" valign="top" style="border: 1px solid #333; padding: 15px;">
-      <h3 style="margin-top: 0; color: #EAEAEA;">/// RUNTIME_MODULES</h3>
+      <h3 style="margin-top: 0; color: #EAEAEA;">/// CORE_COMPETENCIES</h3>
       <img src="https://img.shields.io/badge/PYTHON-050505?style=flat-square&logo=python&logoColor=white&color=333">
-      <img src="https://img.shields.io/badge/DOCKER-050505?style=flat-square&logo=docker&logoColor=white&color=333">
-      <img src="https://img.shields.io/badge/KUBERNETES-050505?style=flat-square&logo=kubernetes&logoColor=white&color=333">
-      <br>
-      <div style="margin-top: 5px;"></div>
       <img src="https://img.shields.io/badge/PYTORCH-050505?style=flat-square&logo=pytorch&logoColor=white&color=333">
+      <img src="https://img.shields.io/badge/HUGGINGFACE-050505?style=flat-square&logo=huggingface&logoColor=white&color=333">
+      <br><div style="margin-top: 5px;"></div>
+      
+      <img src="https://img.shields.io/badge/AZURE-050505?style=flat-square&logo=microsoftazure&logoColor=white&color=333">
+      <img src="https://img.shields.io/badge/DOCKER-050505?style=flat-square&logo=docker&logoColor=white&color=333">
+      <img src="https://img.shields.io/badge/LINUX-050505?style=flat-square&logo=linux&logoColor=white&color=333">
+      <br><div style="margin-top: 5px;"></div>
+      
       <img src="https://img.shields.io/badge/FASTAPI-050505?style=flat-square&logo=fastapi&logoColor=white&color=333">
-      <img src="https://img.shields.io/badge/MYSQL-050505?style=flat-square&logo=mysql&logoColor=white&color=333">
+      <img src="https://img.shields.io/badge/MONGODB-050505?style=flat-square&logo=mongodb&logoColor=white&color=333">
+      <img src="https://img.shields.io/badge/GIT-050505?style=flat-square&logo=git&logoColor=white&color=333">
     </td>
   </tr>
   <tr>
