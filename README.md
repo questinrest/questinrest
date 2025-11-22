@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="QUESTINREST HEADER">
+  <img src="https://raw.githubusercontent.com/questinrest/questinrest/main/assets/header.svg" width="100%" alt="QUESTINREST HEADER">
 </div>
 
 <pre>
@@ -64,5 +64,5 @@
 </table>
 
 <div align="center">
-  <img src="./assets/footer.svg" width="100%" alt="SYSTEM FOOTER">
+  <img src="https://raw.githubusercontent.com/questinrest/questinrest/main/assets/footer.svg" width="100%" alt="SYSTEM FOOTER">
 </div>
