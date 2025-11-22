@@ -1,58 +1,68 @@
-# Hi, I'm Aman (@questinrest) 👋  
+<div align="center">
+  <img src="./assets/header.svg" width="100%" alt="QUESTINREST HEADER">
+</div>
 
-🎓 **MSc Data Science (2023–2025)** @ DIAT Pune  
-🤖 **AI Engineer** @ Observo – Building conversational AI & AI Enabled workflow automation solutions across industries  
-🔬 **Ex-GenAI Research Intern** @ Confedo AI – Evaluation & observability of AI agents  
-🧪 **Ex-Research Intern** @ USG Lab, IIIT Delhi – Worked on Zero-Shot Machine Unlearning  
-❤️ Maths + Code 
+<pre>
+<code style="color: #EAEAEA">
+> ./init_sequence.sh --user=aman --role=auth
+> <span style="color: #CCFF00">ACCESS GRANTED.</span> LOADING NEURAL PROFILE...
 
-<p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=questinrest&base=100&abbreviated=true&label=Profile%20views&color=red&style=plastic" alt="questinrest" />  
-</p>  
+> <strong>IDENTITY:</strong>      Aman (@questinrest)
+> <strong>ARCHETYPE:</strong>     AI Engineer @ Observo // MSc Data Science
+> <strong>PREV_LOC:</strong>      Ex-Confedo AI // Ex-USG Lab IIITD
+> <strong>DIRECTIVE:</strong>     "Maths + Code"
+> <strong>STATUS:</strong>        Constructing agents, destroying latency.
+</code>
+</pre>
 
----
+<table width="100%" style="border: 1px solid #333; background-color: #050505;">
+  <tr>
+    <td width="50%" valign="top" style="border: 1px solid #333; padding: 20px;">
+      <h3 style="margin-top: 0;">/// TRANSMISSION: InSight</h3>
+      <p style="font-family: monospace; color: #EAEAEA;">
+        Weekly intelligence dump on AI Engineering and Architecture.
+      </p>
+      <br>
+      <a href="https://linkedin.com">
+        <code>
+        [  SUBSCRIBE_FEED  ]
+        [  >>>> EXECUTE    ]
+        </code>
+      </a>
+    </td>
+    <td width="50%" valign="top" style="border: 1px solid #333; padding: 20px;">
+      <h3 style="margin-top: 0;">/// WEAPONRY</h3>
+      <img src="https://img.shields.io/badge/PYTHON-050505?style=for-the-badge&logo=python&logoColor=white&border=333">
+      <img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=white&border=333">
+      <br>
+      <img src="https://img.shields.io/badge/DOCKER-050505?style=for-the-badge&logo=docker&logoColor=white&border=333">
+      <img src="https://img.shields.io/badge/MYSQL-050505?style=for-the-badge&logo=mysql&logoColor=white&border=333">
+      <br>
+      <img src="https://img.shields.io/badge/REST_API-050505?style=for-the-badge&logo=fastapi&logoColor=white&border=333">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="border: 1px solid #333; padding: 20px;">
+      <h3 style="margin-top: 0;">/// R&D_LOGS</h3>
+      <ul style="list-style-type: none; padding: 0; font-family: monospace;">
+        <li>[x] <span style="color: #CCFF00">Machine Unlearning</span></li>
+        <li>[x] <span style="color: #CCFF00">Agent Evaluation</span></li>
+        <li>[!] <span>Observability</span></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" style="border: 1px solid #333; padding: 20px;">
+      <h3 style="margin-top: 0;">/// UPLINK</h3>
+      <pre style="background: #000; border: none; padding: 0; margin: 0;">
+{
+  "mail": "<a href="mailto:am30435@gmail.com">am30435@gmail.com</a>",
+  "link": "<a href="#">linkedin_node</a>",
+  "state": "open_to_work"
+}
+      </pre>
+    </td>
+  </tr>
+</table>
 
-## ✍️ InSight – Clear & Practical Takes  
-📅 Daily posts via my LinkedIn newsletter **InSight**  
-👉 [Subscribe to get InSight](https://www.linkedin.com/newsletters/7365791507200577536/)  
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🛠️ Languages & Tools  
-
-<p align="left">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" />
-</p>
-
----
-
-## 🌱 Currently Exploring  
-
-- **Machine Unlearning across Modalities** – Selectively removing learned knowledge without full retraining; investigating interpretability in unlearning.  
-- **Agent Evaluation** – Frameworks to assess performance, reliability & behavior of autonomous systems.  
-- **Observability of LLM Applications** – Monitoring, debugging & ensuring transparency of LLM-powered systems.  
-
----
-
-## 🤝 Let’s Collaborate On  
-
-- **AI/ML Research** – Applying machine learning to real-world problems.  
-- **Open-Source Projects** – Contributions to ML, AI & data science communities.  
-
----
-
-## 📫 Reach Me At  
-
-- 📧 Email: `am30435@gmail.com`  
-- 🔗 LinkedIn: [Aman Mishra](https://www.linkedin.com/in/aman---mishra/)  
-
-💬 Always open to collaborations, discussions & exploring new ideas in AI & Machine Learning.  
-
----
+<div align="center">
+  <img src="./assets/footer.svg" width="100%" alt="SYSTEM FOOTER">
+</div>
