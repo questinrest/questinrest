@@ -211,33 +211,7 @@ AI/ML Engineer with hands-on experience building **LLM systems**, **RAG pipeline
 > Machine unlearning — zero-shot frameworks for class-level forgetting
 ```
 
-<br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## GitHub Stats
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=questinrest&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=CCFF00&text_color=c9d1d9&ring_color=58a6ff" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=questinrest&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=CCFF00&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" />
-  </picture>
-  &nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=questinrest&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=questinrest&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Top Languages" />
-  </picture>
-</div>
-
-<div align="center">
-  <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=questinrest&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=CCFF00&currStreakLabel=CCFF00" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=questinrest&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=CCFF00&currStreakLabel=CCFF00" alt="GitHub Streak" />
-  </picture>
-</div>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
