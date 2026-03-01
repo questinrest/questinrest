@@ -33,9 +33,8 @@
 
 AI/ML Engineer with hands-on experience building **LLM systems**, **RAG pipelines**, and **backend services** across industry and academic internships. Strong foundation in ML, DL, and GenAI, grounded in first-principles understanding, with demonstrated ability to evaluate LLM behavior and ship reliable infrastructure. Currently interested in designing reliability-aware, agent-ready GenAI systems with robust evaluation, monitoring, and scalable infrastructure.
 
-**Master's in Data Science** — Defence Institute of Advanced Technology (DIAT), Pune
-**Bachelor's in Mathematics** — Indira Gandhi National Open University (IGNOU), New Delhi
-
+<p><strong>Master's in Data Science</strong> — Defence Institute of Advanced Technology (DIAT), Pune</p>
+<p><strong>Bachelor's in Mathematics</strong> — Indira Gandhi National Open University (IGNOU), New Delhi</p>
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
