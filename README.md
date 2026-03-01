@@ -31,9 +31,10 @@
 
 ## About
 
-AI/ML Engineer with hands-on experience building **LLM systems**, **RAG pipelines**, and **production backend services** across industry and academic internships. Strong foundation in ML, DL, and GenAI — with demonstrated ability to evaluate LLM behavior, implement Transformer architectures from first principles, and ship reliable infrastructure. Currently interested in **reliability-aware** and **agent-ready** GenAI systems.
+AI/ML Engineer with hands-on experience building **LLM systems**, **RAG pipelines**, and **backend services** across industry and academic internships. Strong foundation in ML, DL, and GenAI, grounded in first-principles understanding, with demonstrated ability to evaluate LLM behavior and ship reliable infrastructure. Currently interested in designing reliability-aware, agent-ready GenAI systems with robust evaluation, monitoring, and scalable infrastructure.
 
-**MSc Data Science** — Defence Institute of Advanced Technology (DIAT), Pune
+**Master's in Data Science** — Defence Institute of Advanced Technology (DIAT), Pune
+**Bachelor's in Mathematics** — Indira Gandhi National Open University (IGNOU), New Delhi
 
 <br/>
 
@@ -60,7 +61,7 @@ AI/ML Engineer with hands-on experience building **LLM systems**, **RAG pipeline
     <td width="140" align="center"><b>Jan 2025<br/>Jun 2025</b></td>
     <td>
       <b>Research Intern</b> · <a href="#">Usable Security Group (USG) Lab @ IIIT Delhi</a><br/>
-      Designed a zero-shot machine unlearning framework enabling class-level forgetting without original data. Used contrastive model inversion to generate 5K synthetic samples for targeted unlearning. Achieved 90%+ class-wise unlearning efficacy on SVHN with 77% runtime reduction vs. GKT. Benchmarked against 4 baselines.
+      Designed a zero-shot machine unlearning framework enabling class-level forgetting without original data. Used contrastive model inversion to generate 5K synthetic samples for targeted unlearning. Achieved 90%+ class-wise unlearning efficacy on SVHN with 77% runtime reduction vs. GKT. Benchmarked against 4 baselines. Explored coreset based strategies for effective unlearning.
     </td>
   </tr>
 </table>
