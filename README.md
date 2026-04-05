@@ -45,22 +45,33 @@ AI/ML Engineer with hands-on experience building **LLM systems**, **RAG pipeline
   <tr>
     <td width="140" align="center"><b>Aug 2025<br/>Jan 2026</b></td>
     <td>
-      <b>Founding Engineering Team</b> · <a href="#">Observo Tech Studio</a><br/>
-      Benchmarked email service providers, warm-up tools, and video analytics APIs for an AI-powered B2B marketing product. Built the early backend for multi-mailbox outbound campaigns with conversation-level state across 5 mailboxes (FastAPI + PostgreSQL). Implemented a real-time webhook pipeline capturing 16+ delivery and engagement signals. Deployed serverless APIs on Azure Functions and Logic Apps.
+      <b>AI Engineer — Evntro</b> · <a href="#">Observo Tech Studio</a><br/>
+      • Contributed to a production-grade agentic B2B outreach system integrating email sending, receiving, replying, and campaign-level tracking across multiple mailboxes<br/>
+      • Designed and implemented the LLM tool layer (send/track/reply) with persistent conversation state in PostgreSQL, enabling autonomous, multi-threaded communication workflows<br/>
+      • Engineered a real-time feedback pipeline capturing 16+ delivery and engagement signals, enabling adaptive, data-driven campaign optimization<br/>
+      • Developed a context-aware RAG pipeline leveraging prospect data for personalized email generation, improving relevance over template-based outreach<br/>
+      • Refactored the FastAPI backend to resolve critical issues and deployed services on Azure Function Apps, enabling a scalable, event-driven system
     </td>
   </tr>
   <tr>
     <td width="140" align="center"><b>Apr 2025<br/>Jul 2025</b></td>
     <td>
-      <b>GenAI Engineer, R&D</b> · <a href="#">Confedo AI</a><br/>
-      Evaluated 4 LLM observability frameworks by implementing equivalent RAG workflows and comparing tracing quality, async context propagation, and metric reliability. Reverse-engineered tracing implementations across 3 open-source codebases. Prepared experimental RAG pipelines assessing retrieval quality and faithfulness using LLM-based and classical IR metrics.
+      <b>GenAI Engineer (R&D)</b> · <a href="#">Confedo AI</a><br/>
+      • Built multi-stage RAG pipelines and agentic workflows to simulate real-world LLM usage and enable systematic evaluation of faithfulness, relevance, and failure modes in complex pipelines<br/>
+      • Designed advanced retrieval pipelines (query routing, HyDE, reranking) to generate challenging, multistep queries, improving robustness and realism of evaluation benchmarks<br/>
+      • Reverse engineered 3 LLM observability frameworks to understand tracing architectures and extract design insights for building in-house evaluation and observability tooling<br/>
+      • Built a PoC for an in-house LLM tracing system to validate design decisions and inform the product team in developing a production-grade tracing SDK
     </td>
   </tr>
   <tr>
     <td width="140" align="center"><b>Jan 2025<br/>Jun 2025</b></td>
     <td>
       <b>Research Intern</b> · <a href="#">Usable Security Group (USG) Lab @ IIIT Delhi</a><br/>
-      Designed a zero-shot machine unlearning framework enabling class-level forgetting without original data. Used contrastive model inversion to generate 5K synthetic samples for targeted unlearning. Achieved 90%+ class-wise unlearning efficacy on SVHN with 77% runtime reduction vs. GKT. Benchmarked against 4 baselines. Explored coreset based strategies for effective unlearning.
+      • Designed and validated a data-free, zero-shot machine unlearning framework to enable class-level data removal without requiring access to original training data, supporting privacy compliance (e.g., GDPR)<br/>
+      • Leveraged contrastive model inversion to generate 5K synthetic samples, enabling effective targeted unlearning while preserving model performance on unaffected classes<br/>
+      • Achieved 90%+ unlearning efficacy across 8 classes on the SVHN dataset, while maintaining 95%+ accuracy on retained classes, minimizing unintended knowledge loss<br/>
+      • Improved unlearning efficiency with a 77% reduction in runtime compared to the GKT baseline, enhancing feasibility for real-world deployment<br/>
+      • Conducted comparative evaluation against 4 baseline methods (EMMN, GKT, zMuGAN, retraining) and explored subset/coreset strategies to optimize scalability and effectiveness of unlearning
     </td>
   </tr>
 </table>
@@ -137,6 +148,46 @@ AI/ML Engineer with hands-on experience building **LLM systems**, **RAG pipeline
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/questinrest/TierRAG">TierRAG: Multi-Tiered RAG</a></h3>
+      <p>Enterprise-grade Multi-Tiered Retrieval-Augmented Generation System. Integrates dynamic fallback strategies and diverse retrieval architectures to ensure high-fidelity context extraction across complex datasets.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />&nbsp;
+        <img src="https://img.shields.io/badge/LangChain-375BD2?style=flat-square" alt="LangChain" />&nbsp;
+        <img src="https://img.shields.io/badge/Vector_DB-00C7B7?style=flat-square" alt="Vector DB" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/questinrest/tracelite">Tracelite SDK</a></h3>
+      <p>Custom-built, local-only LLM tracing and observability tooling. Engineered for async agentic workflows using <code>contextvars</code> to provide granular telemetry, span tracking, and metric evaluation with minimal overhead.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />&nbsp;
+        <img src="https://img.shields.io/badge/LLMOps-ff69b4?style=flat-square" alt="LLMOps" />&nbsp;
+        <img src="https://img.shields.io/badge/Observability-58a6ff?style=flat-square" alt="Observability" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/questinrest/agentic-rag-orchestrator">Agentic RAG Orchestrator</a></h3>
+      <p>Multi-path autonomous RAG pipeline featuring intelligent query routing, self-corrective retrieval loops, and iterative web search fallbacks to actively detect and eliminate hallucinations in real time.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />&nbsp;
+        <img src="https://img.shields.io/badge/LangGraph-333333?style=flat-square" alt="LangGraph" />&nbsp;
+        <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" alt="Groq" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/questinrest/rag-on-everything-leann">LEANN RAG</a></h3>
+      <p>On-device RAG engineered around LEANN's graph-based search. Indexes millions of documents locally in gigabytes without significant accuracy loss, achieving zero cloud dependency and strict privacy.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />&nbsp;
+        <img src="https://img.shields.io/badge/LEANN-0467DF?style=flat-square" alt="LEANN" />&nbsp;
+        <img src="https://img.shields.io/badge/Graph_Search-5C3EE8?style=flat-square" alt="Graph Search" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/questinrest/doc-struct-rag">DocStructRAG</a></h3>
       <p>Structure-aware documentation RAG pipeline built from scratch. Crawls 104 FastAPI pages, preserves section hierarchy, generates 971 metadata-rich chunks, and delivers citation-grounded answers via Pinecone + Groq.</p>
       <p>
@@ -154,45 +205,6 @@ AI/ML Engineer with hands-on experience building **LLM systems**, **RAG pipeline
         <img src="https://img.shields.io/badge/Pinecone-00C7B7?style=flat-square" alt="Pinecone" />&nbsp;
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" alt="FastAPI" />&nbsp;
         <img src="https://img.shields.io/badge/PyMuPDF-333333?style=flat-square" alt="PyMuPDF" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/questinrest/offline-rag-bot">Offline RAG Bot</a></h3>
-      <p>Fully local, zero-cloud RAG system. Chat with your own PDFs using Ollama + Streamlit. Ships with a privacy-law corpus (GDPR, CCPA, LGPD, DPDP) for interactive legal research.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />&nbsp;
-        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" alt="Ollama" />&nbsp;
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square" alt="Streamlit" />&nbsp;
-        <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square" alt="FAISS" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/questinrest/transformer_from_scratch">Transformer from Scratch</a></h3>
-      <p>GPT-style decoder-only Transformer implemented from first principles in pure PyTorch. 18.9M-parameter model with ablation studies on Pre-LN vs Post-LN, sinusoidal vs RoPE, tracked via W&B.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />&nbsp;
-        <img src="https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black" alt="W&B" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/questinrest/yolo-detection-posture-estimation">YOLO Posture Estimation</a></h3>
-      <p>Modular computer vision pipeline using YOLOv8 for object detection and pose estimation. Classifies postures (standing, sitting, bending) via geometric heuristics on skeletal keypoints.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />&nbsp;
-        <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black" alt="YOLO" />&nbsp;
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square" alt="OpenCV" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/questinrest/cnn-lstm-frame-classification">CNN-LSTM Frame Classification</a></h3>
-      <p>Sequential frame classification for gesture recognition using CNN feature extraction + LSTM temporal modeling. Built for TV gesture control with 5 distinct hand gesture classes.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />&nbsp;
-        <img src="https://img.shields.io/badge/CNN+LSTM-333333?style=flat-square" alt="CNN+LSTM" />
       </p>
     </td>
   </tr>
