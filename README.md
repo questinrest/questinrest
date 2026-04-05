@@ -31,7 +31,7 @@
 
 ## About
 
-AI/ML Engineer with hands-on experience building **LLM systems**, **RAG pipelines**, and **backend services** across industry and academic internships. Strong foundation in ML, DL, and GenAI, grounded in first-principles understanding, with demonstrated ability to evaluate LLM behavior and ship reliable infrastructure. Currently interested in designing reliability-aware, agent-ready GenAI systems with robust evaluation, monitoring, and scalable infrastructure.
+AI/ML Engineer specializing in **Agentic Architectures**, **Production RAG systems**, and **LLM Observability**. Proven track record of building autonomous multi-agent pipelines, real-time feedback loops, and highly scalable backend infrastructure. Strong foundation in machine learning, grounded in first-principles execution—from orchestrating distributed, stateful LLM deployments to building zero-shot machine unlearning frameworks. Passionate about engineering reliable, deterministic, and tightly monitored GenAI solutions that solve complex enterprise challenges.
 
 <p><strong>Master's in Data Science</strong> — Defence Institute of Advanced Technology (DIAT), Pune</p>
 <p><strong>Bachelor's in Mathematics</strong> — Indira Gandhi National Open University (IGNOU), New Delhi</p>
@@ -104,8 +104,10 @@ AI/ML Engineer with hands-on experience building **LLM systems**, **RAG pipeline
     <td align="center"><b>LLM / RAG</b></td>
     <td>
       <img src="https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=chainlink&logoColor=375BD2" alt="LangChain" />&nbsp;
+      <img src="https://img.shields.io/badge/LangGraph-0d1117?style=flat-square" alt="LangGraph" />&nbsp;
       <img src="https://img.shields.io/badge/LangSmith-0d1117?style=flat-square&logo=chainlink&logoColor=58a6ff" alt="LangSmith" />&nbsp;
       <img src="https://img.shields.io/badge/Pinecone-0d1117?style=flat-square&logo=pinecone&logoColor=00C7B7" alt="Pinecone" />&nbsp;
+      <img src="https://img.shields.io/badge/FAISS-0d1117?style=flat-square" alt="FAISS" />&nbsp;
       <img src="https://img.shields.io/badge/Groq-0d1117?style=flat-square&logo=groq&logoColor=F55036" alt="Groq" />&nbsp;
       <img src="https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logo=ollama&logoColor=ffffff" alt="Ollama" />
     </td>
@@ -217,10 +219,10 @@ AI/ML Engineer with hands-on experience building **LLM systems**, **RAG pipeline
 ## Currently Working On
 
 ```
-> Agentic systems design and evaluation workflows
-> LLM observability and tracing infrastructure
-> Production RAG with evaluation (RAGAS), deduplication, and structured retrieval
-> Machine unlearning — zero-shot frameworks for class-level forgetting
+> Engineering multi-tiered, self-correcting Agentic RAG architectures
+> Developing lightweight, local-only LLM observability and tracing SDKs
+> Exploring hardware-efficient, vectorless RAG approaches (PageIndex & LEANN)
+> Scaling distributed, stateful LLM tool layers for autonomous workflows
 ```
 
 
